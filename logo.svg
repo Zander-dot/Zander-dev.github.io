@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Zander Z slash logo">
+  <rect width="256" height="256" rx="44" fill="#0b1016"/>
+  <path d="M64 70h96L75 178h105" fill="none" stroke="#b8ff5a" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M178 54 98 202" fill="none" stroke="#4d7cff" stroke-width="10" stroke-linecap="square"/>
+</svg>
